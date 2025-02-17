@@ -1,6 +1,6 @@
 {
-    "name": "Jonas Einstein",
-    "profilePictureUrl": "images/pictures/avatar.png",
+    "name": "Leon Vidal",
+    "profilePictureUrl": "images/pictures/leonVidalPerfil.png",
 
     "locales": {
         "en": {
@@ -10,7 +10,7 @@
 
         "es": {
             "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
+            "role": "Ingeniero Civil en Informática  Developer"
         },
 
         "fr": {
@@ -27,23 +27,23 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "value": "123 Main Street, Santiago, Chile",
+            "valueShort": "Santiago, Chile",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
 
         "email": {
             "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
+            "value": "leonvidal29@gmail.com",
+            "valueShort": "leonvidal29@gmail.com",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
+            "href": "mailto:leonvidal29@gmail.com"
         },
 
         "facebook": {
             "id": "facebook",
-            "value": "Jonas Einstein",
+            "value": "Leon Vidal",
             "valueShort": "J. Einstein",
             "faIcon": "fa-brands fa-facebook",
             "href": "https://facebook.com"
@@ -75,8 +75,8 @@
 
         "phone": {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+1 +56951091736",
+            "valueShort": "+56951091736",
             "faIcon": "fa-solid fa-phone",
             "href": "tel:1234567890"
         }
