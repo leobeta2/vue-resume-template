@@ -62,7 +62,7 @@
     },
 
     "udacity": {
-        "logoUrl": "images/places/logo-udacity.png",
+        "logoUrl": "images/places/logo-java.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "Udacity"}

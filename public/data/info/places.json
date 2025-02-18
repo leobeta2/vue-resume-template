@@ -60,12 +60,20 @@
             "zh": {"name": "巴黎大学"}
         }
     },
-
+    
     "udacity": {
-        "logoUrl": "images/places/logo-udacity.png",
+        "logoUrl": "images/places/logo-java.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Udacity"}
+            "en": {"name": "Java"}
+        }
+    },
+
+    "java": {
+        "logoUrl": "images/places/logo-java.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Java"}
         }
     },
 

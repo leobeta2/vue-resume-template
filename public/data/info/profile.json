@@ -10,7 +10,7 @@
 
         "es": {
             "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Ingeniero Civil en Informática  Developer"
+            "role": "Ingeniero Civil en Informática  Software Developer"
         },
 
         "fr": {
@@ -46,7 +46,7 @@
             "value": "Leon Vidal",
             "valueShort": "J. Einstein",
             "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
+            "href": "https://facebook.com/leon-vidal-navarro"
         },
 
         "github": {
@@ -70,7 +70,7 @@
             "value": "@jonas.einstein.official",
             "valueShort": "@jonas.einstein.official",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://www.linkedin.com/in/leon-vidal"
         },
 
         "phone": {
