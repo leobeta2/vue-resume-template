@@ -191,7 +191,7 @@
 
             {
                 "id": "ui_nanodegree",
-                "place": "@link{places.udacity}",
+                "place": "@link{places.uach}",
                 "date": "2019/04",
                 "href": "https://udemy.com",
                 "locales": {

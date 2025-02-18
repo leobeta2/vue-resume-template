@@ -24,7 +24,7 @@
     "items": [
         {
             "id": "engineer",
-            "place": "@link{places.udacity}",
+            "place": "@link{places.uach}",
             "period": ["2011/01", "2018/01"],
 
             "locales": {
@@ -41,7 +41,7 @@
         },
         {
             "id": "java_fundamentals",
-            "place": "@link{places.udacity}",
+            "place": "@link{places.java}",
             "period": ["2018/01", "2018/06"],
 
             "locales": {

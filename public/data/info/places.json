@@ -60,12 +60,12 @@
             "zh": {"name": "巴黎大学"}
         }
     },
-    
-    "udacity": {
-        "logoUrl": "images/places/logo-java.png",
+
+    "uach": {
+        "logoUrl": "images/places/logo-uach.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Java"}
+            "en": {"name": "Uach"}
         }
     },
 

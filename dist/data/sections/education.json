@@ -24,7 +24,7 @@
     "items": [
         {
             "id": "online_course_udacity",
-            "place": "@link{places.udacity}",
+            "place": "@link{places.uach}",
             "period": ["2014/01", "2014/07"],
 
             "locales": {

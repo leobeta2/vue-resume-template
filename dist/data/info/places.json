@@ -61,11 +61,19 @@
         }
     },
 
-    "udacity": {
+    "uach": {
+        "logoUrl": "images/places/logo-uach.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Uach"}
+        }
+    },
+
+    "java": {
         "logoUrl": "images/places/logo-java.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Udacity"}
+            "en": {"name": "Java"}
         }
     },
 
