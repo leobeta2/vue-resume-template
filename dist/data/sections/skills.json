@@ -75,12 +75,12 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Responsive Layouts",
+                        "title": "Front-End Development",
                         "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience."
                     },
                     "es": {
-                        "title": "Diseños Responsivos",
-                        "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima ."
+                        "title": "Desarrollo Front-End",
+                        "description": "Capaz de codificar en Vue2, vue3, Javascript y TypeScript."
                     },
                     "fr": {
                         "title": "Mises en Page Réactives",
@@ -147,44 +147,12 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Usability Testing",
-                        "description": "Enhancing user experiences through comprehensive usability testing."
+                        "title": "Back-End Development",
+                        "description": "Experience in .NetCore and Java"
                     },
                     "es": {
-                        "title": "Pruebas de Usabilidad",
-                        "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
-                    },
-                    "fr": {
-                        "title": "Tests d'Utilisabilité",
-                        "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité."
-                    },
-                    "zh": {
-                        "title": "可用性测试",
-                        "description": "通过全面的可用性测试提升用户体验。"
-                    }
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-expand-arrows-alt",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Interaction Design",
-                        "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
-                    },
-                    "es": {
-                        "title": "Diseño de Interacción",
-                        "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario."
-                    },
-                    "fr": {
-                        "title": "Design d'Interaction",
-                        "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales."
-                    },
-                    "zh": {
-                        "title": "交互设计",
-                        "description": "熟练创建直观流畅的交互，以实现用户友好的体验。"
+                        "title": "Desarrollor Back-End",
+                        "description": "Experiencia en .NetCore Y Java"
                     }
                 }
             },
@@ -256,6 +224,16 @@
                 "faIcon": "fab fa-js-square",
                 "value": 85,
                 "locales": {
+                    "en": {"title": "TypeScript", "description": "Experience Time: 2 years"},
+                    "es": {"title": "TypeScript", "description": "Experiencia: 2 años"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 85,
+                "locales": {
                     "en": {"title": "JavaScript", "description": "Experience Time: 3 years"},
                     "es": {"title": "JavaScript", "description": "Experiencia: 3 años"},
                     "fr": {"title": "JavaScript", "description": "Expérience : 3 ans"},
@@ -295,9 +273,8 @@
                 "value": 100,
                 "locales": {
                     "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."},
-                    "es": {"title": "Inglés", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
-                    "fr": {"title": "Anglais", "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."},
-                    "zh": {"title": "英语", "description": "母语人士，具有出色的沟通和写作能力。"}
+                    "es": {"title": "Inglés", "description": "Habilidad de lectura y escritura"}
+
                 }
             },
 
@@ -307,33 +284,7 @@
                 "value": 90,
                 "locales": {
                     "en": {"title": "Spanish", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
-                    "es": {"title": "Español", "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional."},
-                    "fr": {"title": "Espagnol", "description": "Courant à la fois à l'oral et à l'écrit en espagnol ; confiant dans la communication professionnelle."},
-                    "zh": {"title": "西班牙语", "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/vn.png",
-                "faIcon": null,
-                "value": 40,
-                "locales": {
-                    "en": {"title": "Vietnamese", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."},
-                    "es": {"title": "Vietnamita", "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."},
-                    "fr": {"title": "Vietnamien", "description": "Compétence intermédiaire en vietnamien ; peut tenir des conversations et comprendre un texte écrit."},
-                    "zh": {"title": "越南语", "description": "具有中等水平的越南语能力；能进行对话并理解书面文字。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/pt.png",
-                "faIcon": null,
-                "value": 10,
-                "locales": {
-                    "en": {"title": "Brazilian Portuguese", "description": "Basic understanding of Brazilian Portuguese; learning and improving."},
-                    "es": {"title": "Portugués Brasileño", "description": "Comprensión básica del portugués brasileño; aprendiendo y mejorando."},
-                    "fr": {"title": "Portugais Brésilien", "description": "Compréhension de base du portugais brésilien ; en cours d'apprentissage et d'amélioration."},
-                    "zh": {"title": "巴西葡萄牙语", "description": "对巴西葡萄牙语有基本的理解；正在学习和改进。"}
+                    "es": {"title": "Español", "description": "Fluido en español hablado y escrito"}
                 }
             }
         ],
@@ -345,9 +296,7 @@
                 "value": null,
                 "locales": {
                     "en": {"title": "User Interface (UI) Design", "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."},
-                    "es": {"title": "Diseño de Interfaz de Usuario (UI)", "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."},
-                    "fr": {"title": "Design d'Interface Utilisateur (UI)", "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."},
-                    "zh": {"title": "用户界面（UI）设计", "description": "能够设计直观且视觉吸引力强的用户界面，以实现无缝用户交互。"}
+                    "es": {"title": "Diseño de Interfaz de Usuario (UI)", "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."}
                 }
             },
             {
@@ -355,10 +304,8 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Front-End Development", "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."},
-                    "es": {"title": "Desarrollo Front-End", "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."},
-                    "fr": {"title": "Développement Front-End", "description": "Capable de coder en VueJS, AngularJS et TypeScript."},
-                    "zh": {"title": "前端开发", "description": "能够编写VueJS、AngularJS和TypeScript代码。"}
+                    "en": {"title": "Leadership in Innovation", "description": "Promote the use of new technologies or new versions of these, leading groups for this"},
+                    "es": {"title": "Liderazgo en Innovación", "description": "Promover el uso de tecnologías nuevas o nuevas versiones de esta, liderando grupos para esto"}
                 }
             },
             {

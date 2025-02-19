@@ -36,9 +36,7 @@
             "faIcon": "fa fa-code",
             "locales": {
                 "en": {"title": "Programming"},
-                "es": {"title": "Programación"},
-                "fr": {"title": "Programmation"},
-                "zh": {"title": "编程"}
+                "es": {"title": "Programación"}
             }
         },
 
@@ -69,29 +67,6 @@
 
     "items": {
         "abilities": [
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-mobile-alt",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Responsive Layouts",
-                        "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience."
-                    },
-                    "es": {
-                        "title": "Diseños Responsivos",
-                        "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima ."
-                    },
-                    "fr": {
-                        "title": "Mises en Page Réactives",
-                        "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale."
-                    },
-                    "zh": {
-                        "title": "响应式布局",
-                        "description": "擅长为不同设备创建适应性布局，通过无缝调整设计元素和内容以适配不同屏幕尺寸，确保最佳用户体验。"
-                    }
-                }
-            },
 
             {
                 "imageIconUrl": null,
@@ -147,44 +122,12 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Usability Testing",
-                        "description": "Enhancing user experiences through comprehensive usability testing."
+                        "title": "Back-End Development",
+                        "description": "Experience in .NetCore and Java"
                     },
                     "es": {
-                        "title": "Pruebas de Usabilidad",
-                        "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
-                    },
-                    "fr": {
-                        "title": "Tests d'Utilisabilité",
-                        "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité."
-                    },
-                    "zh": {
-                        "title": "可用性测试",
-                        "description": "通过全面的可用性测试提升用户体验。"
-                    }
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-expand-arrows-alt",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Interaction Design",
-                        "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
-                    },
-                    "es": {
-                        "title": "Diseño de Interacción",
-                        "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario."
-                    },
-                    "fr": {
-                        "title": "Design d'Interaction",
-                        "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales."
-                    },
-                    "zh": {
-                        "title": "交互设计",
-                        "description": "熟练创建直观流畅的交互，以实现用户友好的体验。"
+                        "title": "Desarrollor Back-End",
+                        "description": "Experiencia en .NetCore Y Java"
                     }
                 }
             },
@@ -256,6 +199,16 @@
                 "faIcon": "fab fa-js-square",
                 "value": 85,
                 "locales": {
+                    "en": {"title": "TypeScript", "description": "Experience Time: 2 years"},
+                    "es": {"title": "TypeScript", "description": "Experiencia: 2 años"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 85,
+                "locales": {
                     "en": {"title": "JavaScript", "description": "Experience Time: 3 years"},
                     "es": {"title": "JavaScript", "description": "Experiencia: 3 años"},
                     "fr": {"title": "JavaScript", "description": "Expérience : 3 ans"},
@@ -266,7 +219,27 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-vuejs",
-                "value": 100,
+                "value": 95,
+                "locales": {
+                    "en": {"title": "Jest", "description": "Experience Time: 2 years"},
+                    "es": {"title": "Jest", "description": "Experiencia: 2 años"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 95,
+                "locales": {
+                    "en": {"title": "Vue 2", "description": "Experience Time: 2 years"},
+                    "es": {"title": "Vue 2", "description": "Experiencia: 2 años"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 95,
                 "locales": {
                     "en": {"title": "Vue 3", "description": "Experience Time: 2 years"},
                     "es": {"title": "Vue 3", "description": "Experiencia: 2 años"},
@@ -278,7 +251,7 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-react",
-                "value": 75,
+                "value": 50,
                 "locales": {
                     "en": {"title": "React", "description": "Nanodegree in React development (Udacity)<br>Experience time: 1 year"},
                     "es": {"title": "React", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
@@ -310,30 +283,6 @@
                     "es": {"title": "Español", "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional."},
                     "fr": {"title": "Espagnol", "description": "Courant à la fois à l'oral et à l'écrit en espagnol ; confiant dans la communication professionnelle."},
                     "zh": {"title": "西班牙语", "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/vn.png",
-                "faIcon": null,
-                "value": 40,
-                "locales": {
-                    "en": {"title": "Vietnamese", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."},
-                    "es": {"title": "Vietnamita", "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."},
-                    "fr": {"title": "Vietnamien", "description": "Compétence intermédiaire en vietnamien ; peut tenir des conversations et comprendre un texte écrit."},
-                    "zh": {"title": "越南语", "description": "具有中等水平的越南语能力；能进行对话并理解书面文字。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/pt.png",
-                "faIcon": null,
-                "value": 10,
-                "locales": {
-                    "en": {"title": "Brazilian Portuguese", "description": "Basic understanding of Brazilian Portuguese; learning and improving."},
-                    "es": {"title": "Portugués Brasileño", "description": "Comprensión básica del portugués brasileño; aprendiendo y mejorando."},
-                    "fr": {"title": "Portugais Brésilien", "description": "Compréhension de base du portugais brésilien ; en cours d'apprentissage et d'amélioration."},
-                    "zh": {"title": "巴西葡萄牙语", "description": "对巴西葡萄牙语有基本的理解；正在学习和改进。"}
                 }
             }
         ],
