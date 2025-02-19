@@ -55,6 +55,23 @@
                     "description": "Certificacion con Sonda Partners. Mientras me encontraba trabajando en Sonda, pude realizar unas certificaciones en Java Fundamentals"
                 }
             }
+        },
+        {
+            "id": "scrumstudy",
+            "place": "@link{places.scrumstudy}",
+            "period": ["2018/06", "2018/12"],
+
+            "locales": {
+                "en": {
+                    "title": "Certificate Scrum Master",
+                    "description": "Certification with Sonda Partners. While I was working at Sonda, I was able to complete some certifications in Scrum Master"
+                },
+
+                "es": {
+                    "title": "Certificacion en Scrum Master",
+                    "description": "Certificacion con Sonda Partners y Scrum Study. Mientras me encontraba trabajando en Sonda, pude realizar unas certificaciones en in Scrum Master"
+                }
+            }
         }
     ]
 }

@@ -105,7 +105,7 @@
 
             {
                 "id": "adobe_jam",
-                "place": "@link{places.adobe}",
+                "place": "@link{places.sonda}",
                 "date": "2020/11",
                 "href": null,
                 "locales": {
