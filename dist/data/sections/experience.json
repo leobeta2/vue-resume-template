@@ -28,12 +28,12 @@
             "period": ["2017/01", "2017/03"],
             "locales": {
                 "en": {
-                    "title": "OPTIMISA S.A./Software Engineer (Professional Practice)",
+                    "title": "OPTIMISA S.A. / Software Engineer (Professional Practice)",
                     "description": "Professional practice that consisted of creating a Web Application for the company to control the time of its employees who worked in the same company or in external companies/entities. With the added benefit of including the storage of GPS data.",
                     "tags": ["React", "Javascript", "Wireframing", "Prototyping", "Responsive Design", "User Research"]
                 },
                 "es": {
-                    "title": "OPTIMISA S.A./Ingeniero de Software (Práctica Profesional)",
+                    "title": "OPTIMISA S.A. / Ingeniero de Software (Práctica Profesional)",
                     "description": "Práctica profesional que consistió en realizar una Aplicación Web para el control de horario por parte de la empresa para sus empleados que trabajaban en la misma empresa o en empresas/ entidades externas. Con el añadido de que incorporaba el guardado de los datos del GPS.",
                     "tags": ["React", "Javascript", "Prototipado", "Diseño Responsivo", "Investigación de Usuarios", "Wireframing"]
                 }
@@ -69,12 +69,12 @@
                     "tags": ["Sketch", "Adobe XD", "InVision", "Design Strategy", "Cross-Functional Collaboration"]
                 },
                 "es": {
-                    "title": "Designer UX Principal",
+                    "title": "Principal Financial Group / Software Engineer",
                     "description": "Impulsé iniciativas de UX supervisando un equipo de diseñadores, elaborando estrategias de diseño y liderando colaboraciones multifuncionales con gerentes de producto, ingenieros y ejecutivos. Centrado en crear diseños centrados en el usuario que se alinearan con los objetivos comerciales y que dieron como resultado una mayor satisfacción del usuario.",
                     "tags": ["Sketch", "Adobe XD", "InVision", "Estrategia de Diseño", "Colaboración Multifuncional"]
                 },
                 "fr": {
-                    "title": "Designer UX Principal",
+                    "title": "Principal Financial Group / Software Engineer",
                     "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs.",
                     "tags": ["Sketch", "Adobe XD", "InVision", "Stratégie de Conception", "Collaboration Interfonctionnelle"]
                 },

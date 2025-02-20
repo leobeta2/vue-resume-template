@@ -28,12 +28,12 @@
             "period": ["2017/01", "2017/03"],
             "locales": {
                 "en": {
-                    "title": "OPTIMISA S.A./Software Engineer (Professional Practice)",
+                    "title": "OPTIMISA S.A. / Software Engineer (Professional Practice)",
                     "description": "Professional practice that consisted of creating a Web Application for the company to control the time of its employees who worked in the same company or in external companies/entities. With the added benefit of including the storage of GPS data.",
                     "tags": ["React", "Javascript", "Wireframing", "Prototyping", "Responsive Design", "User Research"]
                 },
                 "es": {
-                    "title": "OPTIMISA S.A./Ingeniero de Software (Práctica Profesional)",
+                    "title": "OPTIMISA S.A. / Ingeniero de Software (Práctica Profesional)",
                     "description": "Práctica profesional que consistió en realizar una Aplicación Web para el control de horario por parte de la empresa para sus empleados que trabajaban en la misma empresa o en empresas/ entidades externas. Con el añadido de que incorporaba el guardado de los datos del GPS.",
                     "tags": ["React", "Javascript", "Prototipado", "Diseño Responsivo", "Investigación de Usuarios", "Wireframing"]
                 }
@@ -69,7 +69,7 @@
                     "tags": ["Vue2", "Vue3", "Javascript", "Typescript"]
                 },
                 "es": {
-                    "title": "Designer UX Principal",
+                    "title": "Principal Financial Group / Software Engineer",
                     "description": "Se trabajó en Principal, añadiendo funcionalidades a su página principal para facilitar las inversiones de los clientes, así como incorporando diversos productos y funcionalidades. La planificación se realizó basándose en una adaptación de la metodología ágil Scrum, utilizando Git y Github para el control de versiones del software y targetprocess para la gestión de tareas. El desarrollo frontend de la aplicación se llevó a cabo con los frameworks Vue2 y Vue3, manejando los estados con Vuex y Pinia, y se integraron distintas API. Además, se implementaron test unitarios para garantizar la calidad del código",
                     "tags": ["Vue2", "Vue3", "Javascript", "Typescript"]
                 }
