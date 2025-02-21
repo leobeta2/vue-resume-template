@@ -279,24 +279,20 @@
             {
                 "imageIconUrl": "images/flags/en.png",
                 "faIcon": null,
-                "value": 100,
+                "value": 50,
                 "locales": {
-                    "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."},
-                    "es": {"title": "Inglés", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
-                    "fr": {"title": "Anglais", "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."},
-                    "zh": {"title": "英语", "description": "母语人士，具有出色的沟通和写作能力。"}
+                    "en": {"title": "English", "description": "Advanced Reading and Writing. Level - A2"},
+                    "es": {"title": "Inglés", "description": "Lectura y escritura avanzada. Level - A2"}
                 }
             },
 
             {
                 "imageIconUrl": "images/flags/es.png",
                 "faIcon": null,
-                "value": 90,
+                "value": 100,
                 "locales": {
-                    "en": {"title": "Spanish", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
-                    "es": {"title": "Español", "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional."},
-                    "fr": {"title": "Espagnol", "description": "Courant à la fois à l'oral et à l'écrit en espagnol ; confiant dans la communication professionnelle."},
-                    "zh": {"title": "西班牙语", "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。"}
+                    "en": {"title": "Spanish", "description": "Native speaker and writer"},
+                    "es": {"title": "Español", "description": "Nativo en habla y escritura"}
                 }
             }
         ],

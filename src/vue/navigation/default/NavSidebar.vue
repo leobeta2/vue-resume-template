@@ -9,8 +9,9 @@
             <!-- Nav Link List -->
             <ul class="nav-links">
                 <!-- Nav Link -->
-                <li v-for="section in data.getSections()" :class="_getNavItemClassList(section)">
-                    <button class="nav-link" @click="_onLinkClicked(section)">
+                <li v-for="section in filterDataSections" :class="_getNavItemClassList(section)">
+                    
+                    <button  class="nav-link" @click="_onLinkClicked(section)">
                         <i :class="section['faIcon']"/>
                         <span>{{ data.getString(section['id']) }}</span>
                     </button>
@@ -51,6 +52,13 @@ onMounted(() => {
  */
 const profileData = computed(() => {
     return data.getProfile()
+})
+
+const filterDataSections = computed(() => {
+    console.log(data.getSections());
+    
+    console.log(data.getSections()[0].categoryId)
+    return data.getSections().filter(value => value.id !== 'portfolio' &&  value.id !== 'achievements');
 })
 
 /**

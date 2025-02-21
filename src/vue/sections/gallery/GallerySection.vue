@@ -1,7 +1,8 @@
 <template>
-    <SectionTemplate :section-data="props.sectionData">
+    <SectionTemplate v-if="false" :section-data="{}">
         <div class="gallery-section-row row g-0">
             <!-- Filter -->
+             {{ props.sectionData }}
             <div class="col-12">
                 <FilterTabs :items="tabItems" @selected="_onFilterTabSelected"/>
             </div>
