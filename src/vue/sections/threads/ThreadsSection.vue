@@ -1,5 +1,5 @@
 <template>
-    <SectionTemplate :section-data="props.sectionData">
+    <SectionTemplate v-if="false" :section-data="{}">
         <!-- Threads Grid -->
         <div class="row g-4 g-lg-5">
             <div v-for="subcategory in props.sectionData['content']['subcategories']" class="col-12 col-xxl-6 thread-container">

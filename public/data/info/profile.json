@@ -27,7 +27,7 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Santiago, Chile",
+            "value": "Comuna de San Miguel, Santiago, Chile",
             "valueShort": "Santiago, Chile",
             "faIcon": "fa-solid fa-city",
             "href": null
@@ -51,31 +51,31 @@
 
         "github": {
             "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "www.linkedin.com/in/leon-vidal",
+            "valueShort": "www.linkedin.com/in/leon-vidal",
             "faIcon": "fa-brands fa-github",
             "href": "https://github.com"
         },
 
         "instagram": {
             "id": "instagram",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "www.linkedin.com/in/leon-vidal",
+            "valueShort": "www.linkedin.com/in/leon-vidal",
             "faIcon": "fa-brands fa-instagram",
             "href": "https://instagram.com"
         },
 
         "linkedin": {
             "id": "linkedin",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "www.linkedin.com/in/leon-vidal",
+            "valueShort": "www.linkedin.com/in/leon-vidal",
             "faIcon": "fa-brands fa-linkedin",
             "href": "https://www.linkedin.com/in/leon-vidal"
         },
 
         "phone": {
             "id": "phone",
-            "value": "+1 +56951091736",
+            "value": "+56951091736",
             "valueShort": "+56951091736",
             "faIcon": "fa-solid fa-phone",
             "href": "tel:1234567890"
