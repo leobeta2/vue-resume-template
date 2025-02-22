@@ -46,6 +46,7 @@ const data = useData()
 const _getItemLabel = (item) => {
     return item['value'] || item['valueShort']
 }
+
 </script>
 
 <style lang="scss" scoped>

@@ -14,7 +14,7 @@
            v-html="props.sectionData.content['locales']['bio']"/>
 
         <!-- Social Links -->
-        <SocialLinks :items="props.sectionData.content['items']['socialCircles']"/>
+        <SocialLinks :items="filterSocialLinks"/>
     </SectionTemplate>
 </template>
 
@@ -47,6 +47,10 @@ const coverTitle = computed(() => {
         return props.sectionData.content['locales']['welcomeShort']
     }
 })
+
+const filterSocialLinks = computed(()=> {
+    return props.sectionData.content['items']['socialCircles'].filter(value => value.id !== 'instagram');
+});
 </script>
 
 <style lang="scss" scoped>

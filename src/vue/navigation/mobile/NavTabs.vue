@@ -2,7 +2,7 @@
     <div class="nav-tabs-wrapper">
         <nav class="nav-tabs">
             <!-- Nav Tab Item -->
-            <button v-for="category in data.getCategories()" :class="_getNavTabClassList(category)" @click="_onLinkClicked(category)">
+            <button v-for="category in data.getCategories()" :class="[_getNavTabClassList(category), isActive(category) ? 'activeClass' : '']" @click="_onLinkClicked(category)">
                 <!-- Item Content -->
                 <i class="nav-tab-button-icon" :class="category['faIcon']"/>
                 <span class="nav-tab-button-label">{{data.getString(category['id'])}}</span>
@@ -14,6 +14,7 @@
 <script setup>
 import {useData} from "../../../composables/data.js"
 import {useNavigation} from "../../../composables/navigation.js"
+import {ref, computed} from "vue"
 
 const emit = defineEmits(['linkClicked'])
 const data = useData()
@@ -25,12 +26,15 @@ const navigation = useNavigation()
  */
 const _getNavTabClassList = (category) => {
     let classList = 'nav-tab-button'
-
     if(navigation.isCategoryActive(category['id'])) {
         classList += ' nav-tab-button-selected'
     }
 
     return classList
+}
+
+const isActive = (category) => {
+    return (category.id === 'more');
 }
 
 /**
@@ -103,5 +107,9 @@ const _onLinkClicked = (category) => {
     .nav-tab-button-label {
         color: $nav-item-lighten-color;
     }
+}
+
+.activeClass {
+    display: none;
 }
 </style>

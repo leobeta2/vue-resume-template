@@ -1,5 +1,5 @@
 <template>
-    <SectionTemplate :section-data="props.sectionData">
+    <SectionTemplate v-if="false" :section-data="props.sectionData">
         <!-- Form -->
         <ContactForm v-if="contactFormEnabled" />
 
@@ -11,7 +11,7 @@
 
         <!-- Contact Items -->
         <ContactOptions
-            :items="props.sectionData['content']['items']"
+            :items="props.sectionData['content']['items'].filter(value => value.id !== 'instagram')"
             :display-as-list="false"/>
     </SectionTemplate>
 </template>
@@ -36,6 +36,7 @@ const data = useData()
 const contactFormEnabled = computed(() => {
     return data.getSettings()['contactFormEnabled']
 })
+
 </script>
 
 <style lang="scss" scoped>

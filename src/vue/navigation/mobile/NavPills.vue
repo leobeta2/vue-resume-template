@@ -34,6 +34,10 @@ const _getNavPillClass = (section) => {
     return `nav-item ${navigation.isSectionActive(section['id']) ? 'nav-item-selected' : ''}`
 }
 
+// const filterNav = () => {
+//     return props.sections.filter(value => value.id !== 'portfolio')
+// };
+
 /**
  * @param {Object} section
  * @private

@@ -55,12 +55,10 @@ const profileData = computed(() => {
 })
 
 const filterDataSections = computed(() => {
-    console.log(data.getSections());
-    
-    console.log(data.getSections()[0].categoryId)
     return data.getSections().filter(value => value.id !== 'portfolio'
         &&  value.id !== 'achievements'
-        && value.id !== 'hobbies');
+        && value.id !== 'hobbies'
+        && value.id !== 'contact');
 })
 
 /**
