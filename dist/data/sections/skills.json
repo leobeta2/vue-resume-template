@@ -36,9 +36,7 @@
             "faIcon": "fa fa-code",
             "locales": {
                 "en": {"title": "Programming"},
-                "es": {"title": "Programación"},
-                "fr": {"title": "Programmation"},
-                "zh": {"title": "编程"}
+                "es": {"title": "Programación"}
             }
         },
 
@@ -68,7 +66,8 @@
     ],
 
     "items": {
-        "abilities": [  
+        "abilities": [
+
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-laptop-code",
@@ -91,12 +90,20 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "lIDERAZGO",
+                        "title": "Design Principles",
                         "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging."
                     },
                     "es": {
                         "title": "Principios de Diseño",
                         "description": "Experto en diseño: fusiono teoría del color, tipografía, layout y equilibrio para cautivar y transmitir mensajes."
+                    },
+                    "fr": {
+                        "title": "Principes de Conception",
+                        "description": "Habile en design: utilise principes couleur, typo, composition et équilibre pour captiver et transmettre efficacement."
+                    },
+                    "zh": {
+                        "title": "设计原则",
+                        "description": "运用色彩理论、排版、版面构图和平衡等基本原则，巧妙打造视觉吸引的设计，以吸引观众并有效传达信息。"
                     }
                 }
             },
@@ -228,7 +235,27 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-vuejs",
-                "value": 100,
+                "value": 95,
+                "locales": {
+                    "en": {"title": "Jest", "description": "Experience Time: 2 years"},
+                    "es": {"title": "Jest", "description": "Experiencia: 2 años"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 95,
+                "locales": {
+                    "en": {"title": "Vue 2", "description": "Experience Time: 2 years"},
+                    "es": {"title": "Vue 2", "description": "Experiencia: 2 años"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 95,
                 "locales": {
                     "en": {"title": "Vue 3", "description": "Experience Time: 2 years"},
                     "es": {"title": "Vue 3", "description": "Experiencia: 2 años"},
@@ -240,10 +267,10 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-react",
-                "value": 75,
+                "value": 50,
                 "locales": {
                     "en": {"title": "React", "description":"Experience time: 1 year"},
-                    "es": {"title": "React", "description": "Experiencia: 1 año"},
+                    "es": {"title": "React", "description": "Experiencia: 1 año"}
                 }
             }
         ],
@@ -252,21 +279,20 @@
             {
                 "imageIconUrl": "images/flags/en.png",
                 "faIcon": null,
-                "value": 100,
+                "value": 50,
                 "locales": {
-                    "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."},
-                    "es": {"title": "Inglés", "description": "Habilidad de lectura y escritura"}
-
+                    "en": {"title": "English", "description": "Advanced Reading and Writing. Level - A2"},
+                    "es": {"title": "Inglés", "description": "Lectura y escritura avanzada. Level - A2"}
                 }
             },
 
             {
                 "imageIconUrl": "images/flags/es.png",
                 "faIcon": null,
-                "value": 90,
+                "value": 100,
                 "locales": {
-                    "en": {"title": "Spanish", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
-                    "es": {"title": "Español", "description": "Fluido en español hablado y escrito"}
+                    "en": {"title": "Spanish", "description": "Native speaker and writer"},
+                    "es": {"title": "Español", "description": "Nativo en habla y escritura"}
                 }
             }
         ],
@@ -278,16 +304,9 @@
                 "value": null,
                 "locales": {
                     "en": {"title": "User Interface (UI) Design", "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."},
-                    "es": {"title": "Diseño de Interfaz de Usuario (UI)", "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": null,
-                "value": null,
-                "locales": {
-                    "en": {"title": "Leadership in Innovation", "description": "Promote the use of new technologies or new versions of these, leading groups for this"},
-                    "es": {"title": "Liderazgo en Innovación", "description": "Promover el uso de tecnologías nuevas o nuevas versiones de esta, liderando grupos para esto"}
+                    "es": {"title": "Diseño de Interfaz de Usuario (UI)", "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."},
+                    "fr": {"title": "Design d'Interface Utilisateur (UI)", "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."},
+                    "zh": {"title": "用户界面（UI）设计", "description": "能够设计直观且视觉吸引力强的用户界面，以实现无缝用户交互。"}
                 }
             },
             {

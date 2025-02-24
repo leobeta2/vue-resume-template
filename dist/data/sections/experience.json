@@ -64,42 +64,14 @@
             "period": ["2020/09", "2022/09"],
             "locales": {
                 "en": {
-                    "title": "Lead UX Designer",
-                    "description": "Drove UX initiatives by overseeing a team of designers, crafting design strategies, and spearheading cross-functional collaborations with product managers, engineers, and executives. Focused on creating user-centric designs that aligned with business objectives and resulted in enhanced user satisfaction.",
-                    "tags": ["Sketch", "Adobe XD", "InVision", "Design Strategy", "Cross-Functional Collaboration"]
+                    "title": "Principal Financial Group / Software Engineer",
+                    "description": "Work was done at Principal, adding functionalities to its main page to facilitate client investments, as well as incorporating various products and features. Planning was based on an adaptation of the agile Scrum methodology, using Git and Github for software version control and Targetprocess for task management. The frontend development of the application was carried out with the Vue2 and Vue3 frameworks, managing states with Vuex and Pinia, and integrating various APIs. Additionally, unit tests were implemented to ensure code quality.",
+                    "tags": ["Vue2", "Vue3", "Javascript", "Typescript"]
                 },
                 "es": {
                     "title": "Principal Financial Group / Software Engineer",
-                    "description": "Impulsé iniciativas de UX supervisando un equipo de diseñadores, elaborando estrategias de diseño y liderando colaboraciones multifuncionales con gerentes de producto, ingenieros y ejecutivos. Centrado en crear diseños centrados en el usuario que se alinearan con los objetivos comerciales y que dieron como resultado una mayor satisfacción del usuario.",
-                    "tags": ["Sketch", "Adobe XD", "InVision", "Estrategia de Diseño", "Colaboración Multifuncional"]
-                },
-                "fr": {
-                    "title": "Principal Financial Group / Software Engineer",
-                    "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs.",
-                    "tags": ["Sketch", "Adobe XD", "InVision", "Stratégie de Conception", "Collaboration Interfonctionnelle"]
-                },
-                "zh": {
-                    "title": "首席用户体验设计师",
-                    "description": "通过监督设计团队、制定设计战略，并与产品经理、工程师和高管共同推动跨职能合作，推动了用户体验的创新。专注于创建符合业务目标的以用户为中心的设计，从而实现了增强的用户满意度。",
-                    "tags": ["Sketch", "Adobe XD", "InVision", "设计战略", "跨职能合作"]
-                }
-            }
-        },
-
-        {
-            "id": "experience_item_4",
-            "place": "@link{places.coursera}",
-            "period": ["2019/12", "2025/01"],
-            "locales": {
-                "en": {
-                    "title": "Software Engineer, in Principal Financial Group",
-                    "description": "Vue2, Vue3, Typescript, JavaScript y .NetCore. Se trabajo en proyectos de flujos de inversión haciendo mejoras e incorporando nuevos productos a la web de Principal. Para la filial Cuprum: Se trabajo en herramientas de asesoría de inversión, en flujos de inversión, entre otros. Manejo de leads (clientes potenciales), e integración con Zendesk mediante tickets para contactar cliente",
-                    "tags": ["Vue", "Vue3", "Javascript", "Typescript"]
-                },
-                "es": {
-                    "title": "Software Engineer, en Principal Financial Group",
-                    "description": "Vue2, Vue3, Typescript, JavaScript and .NetCore. Work was done on investment flow projects, making improvements and incorporating new products to the Principal website. For the subsidiary Cuprum: Work was done on investment advisory tools, investment flows, among others. Management of leads (potential clients), and integration with Zendesk through tickets to contact the client.",
-                    "tags": ["Vue", "Vue3", "Javascript", "Typescript"]
+                    "description": "Se trabajó en Principal, añadiendo funcionalidades a su página principal para facilitar las inversiones de los clientes, así como incorporando diversos productos y funcionalidades. La planificación se realizó basándose en una adaptación de la metodología ágil Scrum, utilizando Git y Github para el control de versiones del software y targetprocess para la gestión de tareas. El desarrollo frontend de la aplicación se llevó a cabo con los frameworks Vue2 y Vue3, manejando los estados con Vuex y Pinia, y se integraron distintas API. Además, se implementaron test unitarios para garantizar la calidad del código",
+                    "tags": ["Vue2", "Vue3", "Javascript", "Typescript"]
                 }
             }
         }

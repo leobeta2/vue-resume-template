@@ -1,17 +1,17 @@
 {
-    "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
+    "sonda": {
+        "logoUrl": "images/places/logo-sonda.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Adobe Inc."}
+            "en": {"name": "SONDA S.A."}
         }
     },
 
-    "apple": {
-        "logoUrl": "images/places/logo-apple.png",
+    "principal": {
+        "logoUrl": "images/places/logo-principal.png",
         "faIcon": "fab fa-apple",
         "locales": {
-            "en": {"name": "Apple Inc."}
+            "en": {"name": "Principal Financial Group"}
         }
     },
 
@@ -77,11 +77,19 @@
         }
     },
 
+    "scrumstudy": {
+        "logoUrl": "images/places/logo-scrumstudy.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Scrum Study"}
+        }
+    },
+
     "optimisa": {
-        "logoUrl": "images/places/logo-ux-studio.png",
+        "logoUrl": "images/places/logo-optimisa.png",
         "faIcon": "fas fa-paint-brush",
         "locales": {
-            "en": {"name": "UX Masters Studio"}
+            "en": {"name": "OPTIMISA S.A."}
         }
     }
 }
