@@ -61,7 +61,7 @@
         {
             "id": "experience_item_3",
             "place": "@link{places.principal}",
-            "period": ["2020/09", "2022/09"],
+            "period": ["2019/12", "2025/01"],
             "locales": {
                 "en": {
                     "title": "Principal Financial Group / Software Engineer",
